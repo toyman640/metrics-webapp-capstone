@@ -27,7 +27,6 @@ export const getCountries = createAsyncThunk('countries/getCountries', async () 
       continent: country.continents[0],
       coat: country.coatOfArms.png,
     }));
-    console.log(countries);
     return countries;
   } catch (err) {
     return err.message;
@@ -39,7 +38,6 @@ export const getCountry = createAsyncThunk('countries/getCountry', async (countr
     const { handleCountryClick } = extra;
     const res = await axios.get(`${COUNTRY_URL}${country.common}`);
     const info = res.data;
-    console.log(info);
     const countryData = [
       {
         id: info[0].area,
