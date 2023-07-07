@@ -1,70 +1,157 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3><b>React-Capstone-project
+</b></h3>
 
-## Available Scripts
+</div>
+# 📗 Table of Contents
 
-In the project directory, you can run:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### `npm start`
+# 📖 [React-Capstone-project] <a name="about-project"></a>
+In the JavaScript Group Capstone we built a food meal website where users can like, comment on food and make reservations to meet with loved ones and enjoy the meal they ordered for. We built this website with a REST API for meals and an Involvement API.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm test`
+HTML
+CSS
+JavaScript
+React
+REST API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Html/Css/JavaScript <a name="tech-stack"></a>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- Features -->
 
-### `npm run eject`
+### Key Features <a name="key-features"></a>
+Key Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+key features of the application:
+- The app allows users to view information about countries.
+- Users can filter through displayed countries to retrieve a specific country.
+- When a user click on a specific country it displays series of information about that country.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Live Demo <a name="live-demo"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+- [Live Demo Link]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+https://toyman640.github.io/Javascript-Capstone-project/dist/
 
-### Analyzing the Bundle Size
+## Video Walkthrough 📹🚶
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Video-Walkthrough] https://www.loom.com/share/25cafcd4126940c8941e3d46832453cf?sid=05b74cad-0777-4755-b19f-92097f4d51e4
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<p align="right">(<a href="#readme-top"></a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- GETTING STARTED -->
 
-### Deployment
+## 💻 Getting Started <a name="getting-started"></a
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To get a local copy up and running, follow these steps.
 
-### `npm run build` fails to minify
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In order to run this project you need:
+
+- Web browser.
+- Code editor eg [Visual Studio Code](https://code.visualstudio.com/download).
+- Github: Generate an ssh key or use https to clone the repository.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- With a git cmd, git bash or visual studio terminal, clone repo with **``git@github.com:toyman640/metrics-webapp-capstone.git``** to download the repository locally on your machine.
+- Then you navigate to the folder in your code editor with the command *``cd metrics-webapp-capstone``*.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Falako Omotoyosi**
+
+- GitHub: [@toyman640](https://github.com/toyman640)
+- Twitter: [@_toyman](https://twitter.com/_toyman)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+- Links to different pages will be add
+ CSS styling will be added to the page to make it look more professional
+-
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+Show your support ⭐️
+If you like this project, please give it a star and share it with your friends.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+- The original design idea from  Nelson Sakwa.
+- Template from [Nelson](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) behance gallery.
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedbacks.
+- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
+- Hat tip to Cindy Shin whose template was used.
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

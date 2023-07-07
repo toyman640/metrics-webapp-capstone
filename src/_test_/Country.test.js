@@ -20,7 +20,7 @@ describe('Country', () => {
     const { container } = render(
       <Router>
         <Country />
-      </Router>
+      </Router>,
     );
 
     expect(container.textContent).toBe('Loading...');
@@ -44,7 +44,7 @@ describe('Country', () => {
     const { container } = render(
       <Router>
         <Country />
-      </Router>
+      </Router>,
     );
 
     expect(container).toMatchSnapshot();

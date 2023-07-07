@@ -1,11 +1,11 @@
 .Navigation {
   display: flex;
   justify-content: space-between;
-  background-color: pink;
+  background-color: #fc5394;
 }
 
 .Main-div {
-  background-color: pink;
+  background-color: #fc5394;
 }
 
 .Countries-grid {
@@ -49,7 +49,7 @@
 }
 
 .Detail-page {
-  background-color: pink;
+  background-color: #fc5394;
 }
 
 .Data-section {
@@ -58,8 +58,6 @@
 
 .Country-detial {
   height: 300px;
-
-  /* padding: 10px; */
   margin-left: 15%;
 }
 
