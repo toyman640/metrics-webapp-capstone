@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/metrics-webapp-capstone/static/css/main.7d7bb3c6.css",
-    "main.js": "/metrics-webapp-capstone/static/js/main.4b5e1c6f.js",
-    "static/js/787.bc9af703.chunk.js": "/metrics-webapp-capstone/static/js/787.bc9af703.chunk.js",
-    "static/media/africa-map.png": "/metrics-webapp-capstone/static/media/africa-map.5a34e76ca274b846c914.png",
-    "index.html": "/metrics-webapp-capstone/index.html",
-    "main.7d7bb3c6.css.map": "/metrics-webapp-capstone/static/css/main.7d7bb3c6.css.map",
-    "main.4b5e1c6f.js.map": "/metrics-webapp-capstone/static/js/main.4b5e1c6f.js.map",
-    "787.bc9af703.chunk.js.map": "/metrics-webapp-capstone/static/js/787.bc9af703.chunk.js.map"
+    "main.css": "/static/css/main.7d7bb3c6.css",
+    "main.js": "/static/js/main.235716eb.js",
+    "static/js/787.bc9af703.chunk.js": "/static/js/787.bc9af703.chunk.js",
+    "static/media/africa-map.png": "/static/media/africa-map.5a34e76ca274b846c914.png",
+    "index.html": "/index.html",
+    "main.7d7bb3c6.css.map": "/static/css/main.7d7bb3c6.css.map",
+    "main.235716eb.js.map": "/static/js/main.235716eb.js.map",
+    "787.bc9af703.chunk.js.map": "/static/js/787.bc9af703.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d7bb3c6.css",
-    "static/js/main.4b5e1c6f.js"
+    "static/js/main.235716eb.js"
   ]
 }
