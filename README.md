@@ -53,9 +53,7 @@ key features of the application:
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]
-
-https://toyman640.github.io/Javascript-Capstone-project/dist/
+- [Live Demo Link](https://toyman640.github.io/Javascript-Capstone-project/)
 
 ## Video Walkthrough 📹🚶
 
