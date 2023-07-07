@@ -1,7 +1,7 @@
 {
   "name": "metrics-webapp-capstone",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://github.com/toyman640/metrics-webapp-capstone",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
