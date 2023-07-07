@@ -1,7 +1,7 @@
 {
   "name": "metrics-webapp-capstone",
   "version": "0.1.0",
-  "homepage": "https://toyman640.github.io/",
+  "homepage": "https://toyman640.github.io/metrics-webapp-capstone",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
