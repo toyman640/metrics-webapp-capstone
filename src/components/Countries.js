@@ -30,7 +30,6 @@ function Countries() {
   };
 
   if (status === 'idle' || status === 'pending' || !countriesArr) {
-    // Handle loading state
     return <div>Loading...</div>;
   }
 
