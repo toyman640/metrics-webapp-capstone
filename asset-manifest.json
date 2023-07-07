@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7d7bb3c6.css",
+    "main.js": "/react-gh-pages/static/js/main.82b3c12b.js",
+    "static/js/787.bc9af703.chunk.js": "/react-gh-pages/static/js/787.bc9af703.chunk.js",
+    "static/media/africa-map.png": "/react-gh-pages/static/media/africa-map.5a34e76ca274b846c914.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7d7bb3c6.css.map": "/react-gh-pages/static/css/main.7d7bb3c6.css.map",
+    "main.82b3c12b.js.map": "/react-gh-pages/static/js/main.82b3c12b.js.map",
+    "787.bc9af703.chunk.js.map": "/react-gh-pages/static/js/787.bc9af703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7bb3c6.css",
+    "static/js/main.82b3c12b.js"
+  ]
+}
