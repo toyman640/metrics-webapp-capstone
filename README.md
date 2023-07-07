@@ -18,7 +18,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [React-Capstone-project] <a name="about-project"></a>
+# 📖 [Metrics-web App] <a name="about-project"></a>
 In the JavaScript Group Capstone we built a food meal website where users can like, comment on food and make reservations to meet with loved ones and enjoy the meal they ordered for. We built this website with a REST API for meals and an Involvement API.
 
 

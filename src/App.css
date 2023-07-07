@@ -16,12 +16,13 @@
 
 .Country-link {
   text-decoration: none;
-  color: rgb(104, 22, 31);
+  color: #fff;
+  font-size: 1.4em;
 }
 
 .Country-name {
-  text-align: center;
-  padding-top: 30%;
+  text-align: right;
+  padding-top: 40%;
 }
 
 .Flag-div {
@@ -78,3 +79,26 @@
   height: 25px;
   margin-top: 10px;
 }
+
+.Arrow-right {
+  float: right;
+  margin-top: -150px;
+  height: 20px;
+}
+
+.Search-form {
+  margin-top: 150px;
+}
+
+.Search-form input {
+  background-color: #fc5394;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #fff;
+}
+
+.Text-box::placeholder {
+  color: #ffffff;
+}
+

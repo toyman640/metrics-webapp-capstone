@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { getCountries } from '../redux/countries/countrySlice';
 import Search from './Search';
 import africa from '../africa-map.png';
+import right from '../circled-right.png';
 
 function Countries() {
   const dispatch = useDispatch();
@@ -59,6 +60,7 @@ function Countries() {
                   }}
                 >
                   <h4 className="Country-name">{country.name}</h4>
+                  <img className="Arrow-right" src={right} alt="arrow-icon" />
                 </div>
               </Link>
             </div>

@@ -9,8 +9,8 @@ function Search({ onSearch }) {
 
   return (
     <div>
-      <form>
-        <input type="text" placeholder="County name" onChange={handleInputChange} />
+      <form className="Search-form">
+        <input className="Text-box" type="text" placeholder="Click here to search.." onChange={handleInputChange} />
       </form>
     </div>
   );
