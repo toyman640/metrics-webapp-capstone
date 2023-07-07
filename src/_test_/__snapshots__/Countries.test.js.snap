@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Countries renders countries from the store 1`] = `
+<div
+  className="Main-div"
+>
+  <div
+    className="Top-section"
+  >
+    <img
+      alt="map of africa"
+      className="Africa-map"
+      src="africa-map.png"
+    />
+    <div
+      className="Second-part"
+    >
+      <h2>
+        Africa
+      </h2>
+      <div>
+        <form
+          className="Search-form"
+        >
+          <input
+            className="Text-box"
+            onChange={[Function]}
+            placeholder="Click here to search.."
+            type="text"
+          />
+        </form>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Countries-grid"
+  />
+</div>
+`;

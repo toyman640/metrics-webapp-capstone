@@ -1,38 +1,103 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Navigation {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  background-color: #fc5394;
 }
 
-.App-link {
-  color: #61dafb;
+.Main-div {
+  background-color: #fc5394;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Countries-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.Country-link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.4em;
+}
+
+.Country-name {
+  text-align: right;
+  padding-top: 40%;
+}
+
+.Flag-div {
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.Top-section {
+  display: flex;
+}
+
+.Africa-map {
+  width: 50%;
+}
+
+.Second-part {
+  width: 50%;
+  padding-left: 5%;
+  margin-top: 7%;
+}
+
+.Nav-header {
+  color: #fff;
+}
+
+.Detail-page {
+  background-color: #fc5394;
+}
+
+.Data-section {
+  margin-top: 30px;
+}
+
+.Country-detial {
+  height: 300px;
+  margin-left: 15%;
+}
+
+.Details-name {
+  height: 80px;
+  padding-top: 30px;
+  text-align: center;
+  border: 1px solid rgb(219, 214, 214);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.Details-name:nth-child(even) {
+  background-color: rgb(206, 86, 106);
+}
+
+.Menu-icon {
+  height: 25px;
+  margin-top: 10px;
+}
+
+.Arrow-right {
+  float: right;
+  margin-top: -150px;
+  height: 20px;
+}
+
+.Search-form {
+  margin-top: 150px;
+}
+
+.Search-form input {
+  background-color: #fc5394;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #fff;
+}
+
+.Text-box::placeholder {
+  color: #fff;
 }
